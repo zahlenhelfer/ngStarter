@@ -19,3 +19,10 @@ How to get started with the template ([https://github.com/dcsfuerth/ngStarter/tr
 	python -m SimpleHTTPServer 4104
 
 open in browser [http://localhost:4104]()
+
+
+List of good resourcen on AngularJS
+
+[http://blog.backand.com/time-saving-angularjs-tips/]()
+[http://blog.backand.com/list-of-angularjs-resources/]()
+
