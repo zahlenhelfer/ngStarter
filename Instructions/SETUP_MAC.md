@@ -71,7 +71,6 @@ open new terminal window
 
 ### (9) Install Yeoman and angular generator 
 
-	npm update -g
 	npm cache clear
 	npm install -g yo 
 	npm install -g generator-angular 
