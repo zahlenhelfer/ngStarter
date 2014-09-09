@@ -31,7 +31,7 @@ Load the Batarang extension from the chrome web store ([https://www.google.com/i
     sudo apt-get install build-essential
 	sudo apt-get install curl
 
-### (4) nvm, node and friends
+### (5) nvm, node and friends
 
 	curl https://raw.githubusercontent.com/creationix/nvm/v0.15.0/install.sh | bash
 	
@@ -50,23 +50,23 @@ Whatever version you install: **Make sure npm has version 1.x - not version 2**
 
 npm 2 will break a lot of things :-(
 
-### (5) Ruby
+### (6) Ruby
 
 	sudo apt-get install ruby-dev
 	sudo gem install compass
 
-### (6) if npm should make any trouble, try this:
+### (7) if npm should make any trouble, try this:
 
 	npm cache clear
 
-### (7) Yeoman and friends 
+### (8) Yeoman and friends
 
 	npm install -g yo
 	npm update -g yo     # no longer necessary if you got yo 1.2.1
 	npm install -g chalk # probably no longer necessary
 	npm install -g generator-angular
 
-### (8) git
+### (9) git
 
 	sudo apt-get install git
 
