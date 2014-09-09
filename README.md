@@ -5,7 +5,7 @@
 This repo is based on [http://joshdmiller.github.io/ng-boilerplate/#/home]()
 which sadly hasn't be updated for a long time and is barely usable at the moment.
 
-In addition this contains information on how to start an angular project including our suggested machine setup [suggested machine setup ](Instructions/README.md)
+In addition this contains information on how to start an angular project including our [suggested machine setup ](Instructions/README.md)
 
 ## Getting started
 
