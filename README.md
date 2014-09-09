@@ -9,7 +9,7 @@ In addition this contains information on how to start an angular project includi
 
 ## Getting started
 
-How to get started with the template ([https://github.com/dcsfuerth/ngStarter/tree/master/Template]()):
+How to get started with the template ([https://github.com/dcsfuerth/ngStarter/blob/master/Template]()):
 
 	cd ./template
 	npm install
