@@ -35,7 +35,7 @@ Enable software installation from insecure sources in System settings / security
 Either
 	Sourcetree [http://www.sourcetreeapp.com/download]() or GitHub-Client: [https://central.github.com/mac/latest]()
 
-### (5) Brower
+### (5) Browser
 
 Install Chrome from [http://chrome.google.com]()
 
