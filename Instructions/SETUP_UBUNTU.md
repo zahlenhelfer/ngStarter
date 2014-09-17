@@ -105,3 +105,24 @@ Don't panic if you get hundreds of errors and warnings at the "yo angular test" 
 	python -m SimpleHTTPServer 4104
 
 goto [http://localhost:4104]() in your favorite browser
+
+### (15) Installation of Java (needed for WebStorm)
+
+    sudo add-apt-repository ppa:webupd8team/java
+    sudo apt-get update
+    sudo apt-get install oracle-java7-installer
+
+### (16) Download Webstorm
+
+here: http://www.jetbrains.com/webstorm/download/
+
+### (17) Install Webstorm
+
+    tar xfz WebStorm-*.tar.gz
+
+Run WebStorm.sh from the bin subdirectory
+
+
+
+
+

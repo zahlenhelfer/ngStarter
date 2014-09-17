@@ -21,9 +21,10 @@ How to get started with the template ([https://github.com/dcsfuerth/ngStarter/bl
 open in browser [http://localhost:4104]()
 
 
-## List of good resourcen on AngularJS
+## List of good ressources on AngularJS
 
 [http://blog.backand.com/time-saving-angularjs-tips/]()
 
 [http://blog.backand.com/list-of-angularjs-resources/]()
 
+**As always: Contributions are more than welcome! **
