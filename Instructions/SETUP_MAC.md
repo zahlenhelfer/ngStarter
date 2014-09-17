@@ -70,7 +70,7 @@ Don't panic if grunt installation fails
 
 ### (10) Install Ruby & Compass 
 
-	ruby —-version
+	ruby —v
 	sudo gem install compass --no-rdoc --no-ri
 
 ### (11) Install Java (only necessary if you plan to use WebStorm or RubyMine ...)
