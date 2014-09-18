@@ -18,7 +18,7 @@ Remove spyware:
 
 	sudo apt-get remove unity-lens-shopping
 
-### (3) Brower
+### (3) Browser
 
 Install Chrome from [http://chrome.google.com]()
 
